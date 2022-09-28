@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasurbek Ruzimov</h1>
-<h3 align="center">I'm mobile developer</h3>
-<img align="right" alt=Coding" width="400" src="https://miro.medium.com/max/1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
-
-
+<h2 align="center">I'm mobile developer</h2><br>
 - 🔭 I’m currently working on [EdUp](https://github.com/JasurbekRuzimov/EdUp)
 
 - 🌱 I’m currently learning **Android Studio**
