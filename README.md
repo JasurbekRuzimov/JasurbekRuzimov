@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jasurbek Ruzimov</h1>
 <h2 align="center">I'm mobile developer</h2><br>
-- 🔭 I’m currently working on [EdUp](https://github.com/JasurbekRuzimov/EdUp)
 
-- 🌱 I’m currently learning **Android Studio**
+💫 I like creating Amazing mobile apps \
+💻 I know Java & MYSQL & Android  \
+👨‍💻 I’m looking to collaborate on projects \
+💬 I'm 21-years old developer from Uzbekistan/Khorezm \ \
+📫 Reach me on [![Jasurbek Ruzimov](https://img.shields.io/badge/JasurbekRuzimov-30302f?style=flat&logo=telegram)](https://t.me/Ruzimov_Jasurbek) \
+📫 Mail **ruzimovjasur2105@gmail.com**
 
-- 💬 Ask me about **Android , Java**
-
-- 📫 How to reach me **ruzimovjasur2105@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 
 ![Dynamic name](https://github-readme-stats.vercel.app/api?username=JasurbekRuzimov&show_icons=true&theme=radical) <br> <br>
