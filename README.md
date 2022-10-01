@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jasurbek Ruzimov</h1>
-<h2 align="center">I'm mobile developer</h2><br>
+<h2 align="center">I'm Mobile developer 👨‍💻</h2><br>
 
 💫 I like creating Amazing mobile apps \
 💻 I know Java & MYSQL & Android  \
 👨‍💻 I’m looking to collaborate on projects \
-💬 I'm 21-years old developer from Uzbekistan/Khorezm \ \
+💬 I'm 21-years old developer from  Khorezm..Uzbekistan  \
 📫 Reach me on [![Jasurbek Ruzimov](https://img.shields.io/badge/JasurbekRuzimov-30302f?style=flat&logo=telegram)](https://t.me/Ruzimov_Jasurbek) \
 📫 Mail **ruzimovjasur2105@gmail.com**
 
