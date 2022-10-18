@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasurbek Ruzimov</h1>
-<h2 align="center">I'm Mobile developer 👨‍💻</h2><br>
+<h2 align="center">I'm Mobile Developer 👨‍💻</h2><br>
 
 💫 I like creating Amazing mobile apps \
 💻 I know Java & MYSQL & Android  \
