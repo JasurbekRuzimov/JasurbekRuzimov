@@ -4,7 +4,7 @@
 💫 I like creating Amazing mobile apps \
 💻 I know Java & MYSQL & Firebase & Room DB & Android  \
 👨‍💻 I’m looking to collaborate on projects  \
-💬 I'm 21-years old developer from  Khorezm..Uzbekistan  \
+💬 I'm 22-years old developer from  Khorezm..Uzbekistan  \
 📫 Reach me on [![Jasurbek  Ruzimov](https://img.shields.io/badge/JasurbekRuzimov-30302f?style=flat&logo=telegram)](https://t.me/Ruzimov_Jasurbek) \
 📫 Mail **ruzimovjasur2105@gmail.com**
 
