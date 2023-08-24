@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jasurbek Ruzimov</h1>
-<h2 align="center">I'm Android Developer 👨‍💻</h2><br>
+<h2 align="center">I'm Mobile Developer 👨‍💻</h2><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshoots/3848914/programmer.gif">
 
 💫 I like creating Amazing mobile apps \
-💻 I know Java & MYSQL & Firebase & Room DB & Android  \
+💻 I know  `Android` &`Java` & `Kotlin` & `MYSQL` & `Firebase` & `Room DB` & `Figma`  \
 👨‍💻 I’m looking to collaborate on projects  \
 💬 I'm 22-years old developer from  Khorezm..Uzbekistan  \
 📫 Reach me on [![Jasurbek  Ruzimov](https://img.shields.io/badge/JasurbekRuzimov-30302f?style=flat&logo=telegram)](https://t.me/Ruzimov_Jasurbek) \
@@ -32,6 +32,7 @@
 <hr>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JasurbekRuzimov&show_icons=true&theme=radical" alt="Jasurbek" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasurbekRuzimov&layout=compact&theme=radical" alt="Jasurbek" />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JasurbekRuzimov&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Jasurbek" /></a> </p>
 
  <br>
 
