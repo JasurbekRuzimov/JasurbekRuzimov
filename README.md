@@ -45,7 +45,7 @@ My coding time -
 
 <h3 align="left">Support:</h3>
 <p>
-  <a align="left" href="https://www.buymeacoffee.com/ruzimovdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="ruzimovdev" /> </a>
+  <a href="https://www.buymeacoffee.com/ruzimovdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="ruzimovdev" /> </a>
 </p>
 
 <br>
