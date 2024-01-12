@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasurbek Ruzimov</h1>
-<h2 align="center">I'm Software Developer 👨‍💻</h2><br>
+<h2 align="center"> I'm Software Developer 👨‍💻 </h2><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshoots/3848914/programmer.gif">
 
 💫 I like creating Amazing `Mobile Apps` \
