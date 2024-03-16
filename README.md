@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshoots/3848914/programmer.gif">
 
 💫 I like creating Amazing `Mobile Apps` \
-💻 I know  `Android` &`Java` & `Kotlin` & `MYSQL` & `Firebase` & `Room DB` & `Figma`  \
+💻 I know  `Spring` & `Android` & `Java` & `Kotlin` & `MYSQL` & `Firebase` & `Room DB` & `Figma`  \
 👨‍💻 I’m looking to collaborate on projects  \
 💬 I'm 22-years old developer from  `Khorezm`.`Uzbekistan`  \
 📫 Reach me on [![Jasurbek  Ruzimov](https://img.shields.io/badge/JasurbekRuzimov-30302f?style=flat&logo=telegram)](https://t.me/Ruzimov_Jasurbek) \
