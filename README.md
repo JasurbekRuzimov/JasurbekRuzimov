@@ -2,7 +2,7 @@
 <h2 align="center"> I'm Software Developer 👨‍💻 </h2><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshoots/3848914/programmer.gif">
 
-💫 I like creating Amazing `Mobile Apps` \
+💫 I like creating Amazing `Mobile Apps` and `Web sites` \
 💻 I know  `Spring` & `Android` & `Java` & `Kotlin` & `MYSQL` & `Firebase` & `Room DB` & `Figma`  \
 👨‍💻 I’m looking to collaborate on projects  \
 💬 I'm 22-years old developer from  `Khorezm`.`Uzbekistan`  \
