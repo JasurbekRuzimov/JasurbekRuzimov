@@ -31,16 +31,13 @@
 <hr>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JasurbekRuzimov&show_icons=true&theme=radical" alt="Jasurbek" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasurbekRuzimov&layout=compact&theme=radical" alt="Jasurbek" />
+<img width="380" align="centre" src="https://github-readme-streak-stats.herokuapp.com?user=JasurbekRuzimov&theme=github_dark&show_icons=true&hide_border=false" alt="JasurbekRuzimov" />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JasurbekRuzimov&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Jasurbek" /></a> </p>
-
  <br>
 
 My coding time -
 [![wakatime](https://wakatime.com/badge/user/500733b8-649c-4738-ba60-2d94839400de.svg)](https://wakatime.com/@500733b8-649c-4738-ba60-2d94839400de)
 [![Hits](https://hits.sh/github.com/JasurbekRuzimov.svg?labelColor=4b0bc9)](https://hits.sh/github.com/JasurbekRuzimov/)
-
-
-
 
 <h3 align="left">Support:</h3>
 <p>
