@@ -5,7 +5,7 @@
 💫 I like creating Amazing `Mobile Apps` and `Web sites` \
 💻 I know  `Spring` & `Android` & `Java` & `HTML` & `CSS` & `PostgreSQL` & `Firebase` & `Figma`  \
 👨‍💻 I’m looking to collaborate on projects  \
-💬 I'm 24-years old developer from  `Khorezm`.`Uzbekistan`  \
+💬 I'm 25-years old developer from  `Khorezm`.`Uzbekistan`  \
 📫 Reach me on [![Jasurbek  Ruzimov](https://img.shields.io/badge/JasurbekRuzimov-30302f?style=flat&logo=telegram)](https://t.me/Ruzimov_Jasurbek) \
 📫 Mail **ruzimovjasur2105@gmail.com**
 
